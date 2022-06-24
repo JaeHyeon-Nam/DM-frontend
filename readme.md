@@ -82,7 +82,7 @@ DM(Disease Mapping) 은 증상을 통해 질환을 예측하는 서비스 입니
 
 - [충북대 남재현](https://github.com/JaeHyeon-Nam)
 ```
-여기에 남겨주세요!
+함께 하는 팀원 분들의 역량이 뛰어나 해커톤을 잘 마무리하였습니다. 개발 기술과 협업 능력을 눈에 띄게 성장시킬 수 있는 계기가 되었습니다!
 ```
 - [경운대 손민석](https://github.com/SonMinSeock)
 ```
